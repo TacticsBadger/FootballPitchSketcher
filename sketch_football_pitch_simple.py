@@ -66,11 +66,13 @@ ax.add_patch(rightArc)
 
 # add arrow showing the direction of play
 plt.arrow(x=0, y=95, dx=15, dy=0, width=1)
+
 plt.annotate('Direction of Play', xy = (0, 92), weight="bold")
 plt.annotate('Pitch Dimensions: 108m x 65m', xy = (40, 92), weight="bold")
-output_file = ""
 plt.annotate('Zone assignment based on Wyscout', xy = (77, 92), weight="bold")
+
 output_file = "pitch-with-assigned-zones-transparent.png"  
+
 props = dict(boxstyle='round', facecolor='wheat', alpha=0.5)
 
 #Zones - using Wyscout zonal delimitation
