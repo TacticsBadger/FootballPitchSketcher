@@ -2,6 +2,16 @@
 
 Brief: Sketching a football pitch with Python, with zone assignment based on Wyscout definitions.
 
+Programming language: Python
+
+Library dependencies:
+
+    pandas
+    PIL
+    matplotlib
+    numpy
+    seaborn
+
 Calling the script: python3 sketch_football_pitch_simple.py
 
 Output: a .png file with the sketched football pitch.
