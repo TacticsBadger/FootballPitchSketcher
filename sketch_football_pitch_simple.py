@@ -1,6 +1,6 @@
-# Copyright   : @TacticsBadger, TacticsNotAntics: https://tacticsnotantics.org
+# Copyright   : Twitter: @TacticsBadger, TacticsNotAntics: https://tacticsnotantics.org
 # Version 1.0 : July 17, 2022
-# Last Updated: July 17, 2022
+# Last Updated: January 16, 2023
 '''
 Brief: Create a football pitch with zones established through Wyscout
 '''
